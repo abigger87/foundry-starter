@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" top="100" src="./public/readme.jpg">
 
-# femplate • [![tests](https://github.com/refcell/femplate/actions/workflows/ci.yml/badge.svg?label=tests)](https://github.com/refcell/femplate/actions/workflows/ci.yml) ![license](https://img.shields.io/github/license/refcell/femplate?label=license) ![solidity](https://img.shields.io/badge/solidity-^0.8.17-lightgrey)
+# femplate • [![tests](https://github.com/refcell/femplate/actions/workflows/ci.yml/badge.svg?label=tests)](https://github.com/refcell/femplate/actions/workflows/ci.yml) [![license](https://img.shields.io/github/license/refcell/femplate?label=license)](https://github.com/refcell/femplate/blob/main/LICENSE) ![solidity](https://img.shields.io/badge/solidity-^0.8.17-lightgrey)
 
 A **Clean**, **Robust** Template for Foundry Projects.
 
